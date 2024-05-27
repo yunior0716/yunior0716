@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://deliodiaz.netlify.app/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F3731316-web-icon-vector-line-on-white-background-image-for-web-presentation-logo-icon-symbol&psig=AOvVaw3lzdrkOnK8gZbtZNdIUWo2&ust=1716932101282000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjQg9LkroYDFQAAAAAdAAAAABAE" alt="https://deliodiaz.netlify.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/delio-yunior-diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/delio-yunior-diaz" height="30" width="40" /></a>
 </p>
 
