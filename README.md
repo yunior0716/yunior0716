@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Delio Yunior Díaz</h1>
 <h3 align="center">A passionate software developer from Dominican Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunior0716&label=Profile%20views&color=0e75b6&style=flat" alt="yunior0716" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunior0716" alt="yunior0716" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://deliodiaz.netlify.app/](https://deliodiaz.netlify.app/)
 
 - 📫 How to reach me **delioydiaz@gmail.com**
