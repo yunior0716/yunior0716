@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋, I'm Delio Yunior Díaz<br>A passionate software developer from Dominican Republic<br><br>🔭 I’m currently working on a Next.js app for Finance management<br>👨‍💻 All of my projects are available at https://deliodiaz.dev/<br>📫 How to reach me delioydiaz@gmail.com<br><br>
+Hi 👋, I'm Delio Yunior Díaz<br>A passionate software developer from Dominican Republic<br><br>🔭 I’m currently working on a Next.js app for Finance management<br>👨‍💻 Can see some of my projects at https://deliodiaz.dev/<br>📫 How to reach me delioydiaz@gmail.com<br><br>
 
 
 ## 🌐 Socials:
